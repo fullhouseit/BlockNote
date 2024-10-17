@@ -140,7 +140,7 @@ export const ru: Dictionary = {
     },
   },
   placeholders: {
-    default: "Ведите текст или введите «/» для команд",
+    default: "Введите текст или введите «/» для команд",
     heading: "Заголовок",
     bulletListItem: "Список",
     numberedListItem: "Список",
@@ -265,7 +265,7 @@ export const ru: Dictionary = {
         image: "Удалить картинку",
         video: "Удалить видео",
         audio: "Удалить аудио",
-        file: "Скачать файл",
+        file: "Удалить файл",
       },
     },
     file_preview_toggle: {
